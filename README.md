@@ -13,10 +13,9 @@
 <img src= https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white/>
 <img alt="Static Badge" src="https://img.shields.io/badge/SQL-blue">
 
-
 <br/>
 <h3 align="left">Tools and Frameworks:</h3>
-<img src= https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white/>
+<div style=display:flex><img src= https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white/>
 <img src= https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white/>
 <img src= https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white/>
 <img src= https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white/>
@@ -28,7 +27,7 @@
 <img srrc= https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white/>
 <img src= https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white/>
 <img src= https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white/>
-
+</div>
 
 
 
