@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋 , I'm Luis Enrique Valle</h1>
+[![Front End - Javascript](https://img.shields.io/badge/Front_End-Javascript-2ea44f)](https://)
+[![Front End - CSS](https://img.shields.io/badge/Front_End-Javascript-2ea44f)](https://)
+(https://img.shields.io/badge/Front_End-Javascript-2ea44f)](https://)
+
 <h3 align="center">A passionate full stack developer</h3>
 <br/>
 - 📫 l.enrique.v.23@gmail.com
