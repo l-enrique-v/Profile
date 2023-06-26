@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋 , I'm Luis Enrique Valle</h1>
-[![Front End - Javascript](https://img.shields.io/badge/Front_End-Javascript-2ea44f)](https://)
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
 
 <h3 align="center">A passionate full stack developer</h3>
 <br/>
