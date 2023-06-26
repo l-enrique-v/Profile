@@ -8,5 +8,4 @@
 
 <br/>
 <h3 align="left">Languages and Tools:</h3>
-[![Static Badge](https://img.shields.io/badge/:badgeContent)
-](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
