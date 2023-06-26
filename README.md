@@ -6,7 +6,7 @@
 <br/>
 - 📄 <a href=https://drive.google.com/file/d/1r90BaZUD3Qn_S1AmMN1FZK-301Ub8X0_/view?usp=sharing](https://drive.google.com/file/d/1r90BaZUD3Qn_S1AmMN1FZK-301Ub8X0_/view?usp=sharing>Resume</a>
 <br/>
-<h3 align="left">Languages:</h3>
+<h3 align="left">Languages, Tools, Frameworks </h3>
 <div style= display: flex><img src= https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white/>
 <img src= https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white/>
 <img src= https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white/>
@@ -15,8 +15,6 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/SQL-blue">
 </div>
 <br/>
-  
-<h3 align="left">Tools and Frameworks:</h3>
 <div style=display:flex><img src= https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white/>
 <img src= https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white/>
 <img src= https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white/>
