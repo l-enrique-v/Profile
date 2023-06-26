@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 , I'm Luis Enrique Valle</h1>
-![Static Badge](https://img.shields.io/badge/:badgeContent)
-
+[![Static Badge](https://img.shields.io/badge/:badgeContent)
+](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 <h3 align="center">A passionate full stack developer</h3>
 <br/>
