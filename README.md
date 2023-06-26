@@ -8,7 +8,7 @@
 <br/>
 <h3 align="left">Languages, Tools, Frameworks </h3>
 <div style=display: flex>
-  <div style= display: column><img src= https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white/>
+  <div style= flex-direction: column><img src= https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white/>
 <img src= https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white/>
 <img src= https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white/>
 <img src= https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E/>
@@ -17,7 +17,7 @@
 </div>
 
 <br/>
-<div style=display:column><img src= https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white/>
+<div style=flex-direction:column><img src= https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white/>
 <img src= https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white/>
 <img src= https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white/>
 <img src= https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white/>
