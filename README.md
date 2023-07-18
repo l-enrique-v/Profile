@@ -4,7 +4,7 @@
 <br/>
 - 📫 l.enrique.v.23@gmail.com
 <br/>
-- 📄 <a href=https://drive.google.com/file/d/1r90BaZUD3Qn_S1AmMN1FZK-301Ub8X0_/view?usp=sharing](https://drive.google.com/file/d/1r90BaZUD3Qn_S1AmMN1FZK-301Ub8X0_/view?usp=sharing>Resume</a>
+- 📄 <a href=[https://drive.google.com/file/d/1r90BaZUD3Qn_S1AmMN1FZK-301Ub8X0_/view?usp=sharing]](https://drive.google.com/file/d/1hjUYc8qTVeCqVLOxmMEbDFB7Odz6WwbE/view?usp=share_link)([https://drive.google.com/file/d/1r90BaZUD3Qn_S1AmMN1FZK-301Ub8X0_/view?usp=sharing](https://drive.google.com/file/d/1hjUYc8qTVeCqVLOxmMEbDFB7Odz6WwbE/view?usp=share_link)>Resume</a>
 <br/>
 <h3 align="left">Languages, Tools, Frameworks </h3>
 <div style=display: flex>
