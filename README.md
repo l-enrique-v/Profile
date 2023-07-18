@@ -32,9 +32,8 @@
 </div>
 </div>
 </body>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/8c11c81e81574c25807ed764d3a41471?sid=593ea147-3160-44c9-ab49-2a10bab52060" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 
 
