@@ -31,8 +31,9 @@
 <img src= https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white/>
 </div>
 </div>
-</body>
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/8c11c81e81574c25807ed764d3a41471?sid=593ea147-3160-44c9-ab49-2a10bab52060" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+https://github.com/l-enrique-v/l-enrique-v/assets/109237142/c883131c-e6ca-40d7-a6a2-0453e45ff7a7
+
 
 
 
