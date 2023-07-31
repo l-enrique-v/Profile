@@ -1,0 +1,9 @@
+.file-uploader-dropzone-area {
+    width: 100%;
+    border:rgb(165, 165, 165) 2px dashed;
+    text-align: center;
+    font-weight: 500;
+    border-radius: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}

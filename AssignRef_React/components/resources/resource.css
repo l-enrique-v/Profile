@@ -1,0 +1,144 @@
+.resource-right-align {
+  right: 0px;
+}
+
+.resource-card-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.resource.card-body {
+  height: 75vh;
+}
+
+.resource.delete-btn {
+
+  cursor: pointer;
+
+}
+.modal-content .resources-iframe {
+  max-height: 75vh;
+  height: 100%
+}
+.resources-iframe {
+  object-fit: fill;
+  height: 30vh;
+  width: 100%;
+  aspect-ratio: 1/1;
+}
+.resource-no-overflow {
+  overflow-y: hidden
+}
+
+.resource-fileInput {
+  display: none;
+}
+
+
+.resource-coverImage {
+  object-fit: cover;
+  aspect-ratio: 1/1;
+  width: 100%;
+    height: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+
+.resource-coverImage-list {
+  object-fit: cover;
+    aspect-ratio: 1/1;
+    height: 100%;
+    width: 100%;
+    align-content: end;
+    padding-bottom: 0px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+
+}
+
+.resource-card-vertical {
+  max-width: 75%;
+}
+
+.resource-card-preview {
+  max-width: 80%;
+}
+
+.resource-card-shadow {
+  box-shadow:
+    0 5px 51px rgba(0, 0, 0, 0.1),
+    0 0 0 2px rgb(255, 255, 255),
+    2px 2px 25px rgba(0, 0, 0, 0.3);
+}
+
+.resource-mw {
+  width: 100%;
+}
+.resource-dropdown {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+.resource-mh {
+  max-height: 90%
+}
+
+.resource-toggle {
+  display: inline-block;
+  align-self: flex-end
+}
+.resource-container {
+  padding-left: 8%;
+  padding-right: 8%;
+}
+
+.resource-vertical-center {
+  margin: 0;
+  position: relative;
+}
+
+.resource-invis {
+  visibility: hidden;
+}
+
+.resource-table-logo {
+  width: auto;
+  height: 25px;
+}
+
+.resource.dropdown-toggle::after {
+  content: none;
+}
+
+.resource.dropdown-BG.btn-primary {
+  --bs-btn-bg: none;
+  --bs-btn-border-color: none;
+  --bs-btn-hover-bg: none;
+}
+
+.viewer-img {
+  object-fit: contain
+}
+
+.modal-file-viewer .modal-content {
+  width: 40vw;
+  max-height: 100vh;
+
+}
+.resource-text-wrap {
+  display: -webkit-box;
+  -webkit-line-clamp: 5;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  height: 10vh
+}
+.resource.btn-check:checked+.btn,
+.btn.active,
+.btn.show,
+.btn:first-child:active,
+:not(.btn-check)+.btn:active {
+  background-color: none;
+  color: none;
+}
