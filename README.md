@@ -32,9 +32,6 @@
 </div>
 </div>
 
-https://github.com/l-enrique-v/l-enrique-v/assets/109237142/c883131c-e6ca-40d7-a6a2-0453e45ff7a7
-
-
 
 
 
